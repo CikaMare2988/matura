@@ -1,0 +1,129 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+    background: rgb(180, 217, 235);
+    margin: 0;
+}
+
+.naslov{
+    color:  rgb(43, 84, 128);
+    padding-left: 1rem;
+    margin-top: -1rem;
+}
+
+.navbar{
+    background-color:  rgb(43, 84, 128);
+    padding-right: 1rem;
+    display: flex;
+}
+
+.zavrsni{
+    color: white;
+    margin-left: auto;
+}
+
+.nav{
+    text-align: center;
+    width: 6rem;
+    color: white;
+    border-right: 2px solid white;
+}
+
+.navTrenutna{
+    text-align: center;
+    width: 6rem;
+    color: white;
+    border-right: 2px solid white;
+}
+
+
+
+.tekst{
+    background-color: rgb(43, 84, 128);
+    color: white;
+    width: 2000px;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: -7px;
+    position: fixed;
+    text-align: left;
+    font-size: larger;
+}
+
+#p{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#p2{
+    margin-left: 50px;
+}
+
+#p3{
+    margin-left: 50px;
+}
+
+#kontakt{
+    width: 600px;
+    height: 580px;
+    background-color: white;
+    color: black;
+    margin-top: -300px;
+    margin-left: 1150px;
+    position: fixed;
+  }
+  #gmail{
+    width: 50px;
+    height: 50px;
+	border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  #gma{
+    margin-top: -45px;
+    margin-left: 70px;
+  }
+  #instagram{
+    width: 50px;
+    height: 50px;
+	border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  #insta{
+    margin-top: -45px;
+    margin-left: 70px;
+  }
+  #telefon{
+    width: 50px;
+    height: 50px;
+	  border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  #fon{
+    margin-top: -45px;
+    margin-left: 70px;
+  }
+  #adresa{
+    width: 70px;
+    height: 70px;
+	border-radius: 50%;
+    margin-left: 390px;
+    margin-top: 50px;
+  }
+  #adr{
+    margin-top: -50px;
+    margin-left: 450px;
+  }
+
+  #pf1{
+    margin-left: 40px;
+  }
+pp{
+    margin-left: 10px;
+}
+

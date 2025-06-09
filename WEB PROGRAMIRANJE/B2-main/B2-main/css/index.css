@@ -1,0 +1,111 @@
+body{
+    background-image: url("../picture/farms.jpg");
+    background-size: cover;
+    text-align: center;
+}
+.title{
+    color: rgb(236, 236, 159);
+    text-align: center;
+}
+input{
+    background-color: rgb(236, 236, 159);
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+}
+input:hover{
+    background-color: brown;
+    color: rgb(236, 236, 159);;
+}
+
+.circlePicture1{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px solid rgb(236, 236, 159);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: inline-block;
+    background-image: url("../picture/dog.jpg");
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.circlePicture2{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px solid rgb(236, 236, 159);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: inline-block;
+    background-image: url("../picture/duck.jpg");
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.circlePicture3{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px solid rgb(236, 236, 159);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: inline-block;
+    background-image: url("../picture/cat.jpg");
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.circlePicture4{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px solid rgb(236, 236, 159);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: inline-block;
+    background-image: url("../picture/bird.jpg");
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.circlePicture5{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px solid rgb(236, 236, 159);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: inline-block;
+    background-image: url("../picture/cow.jpg");
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.bottomText{
+    width: 100%;
+    height: 50px;
+    background-color: brown;
+    position: absolute;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    color: rgb(236, 236, 159);
+    display: flex;
+    font-size: 1.5em;
+    margin-left: -8px;
+}
+

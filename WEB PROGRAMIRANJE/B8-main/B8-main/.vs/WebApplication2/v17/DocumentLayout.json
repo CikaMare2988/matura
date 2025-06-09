@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_DAKI_DOWNLOADS_ZADATAKB8_WEBAPPLICATION2_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Utisci.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\oautoru.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|solutionrelative:oautoru.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\oautoru.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|solutionrelative:oautoru.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|c:\\users\\daki\\downloads\\zadatakb8\\webapplication2\\uputstvo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|solutionrelative:uputstvo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\uputstvo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D837456F-840A-4960-A449-3476DB46A60E}|WebApplication2.csproj|solutionrelative:uputstvo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Utisci [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_DAKI_DOWNLOADS_ZADATAKB8_WEBAPPLICATION2_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Utisci.sql",
+              "ToolTip": "dbo.Utisci [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T18:43:44.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Uputstvo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\Uputstvo.aspx.cs",
+              "RelativeDocumentMoniker": "Uputstvo.aspx.cs",
+              "ToolTip": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\Uputstvo.aspx.cs",
+              "RelativeToolTip": "Uputstvo.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:37:36.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Uputstvo.aspx",
+              "DocumentMoniker": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\Uputstvo.aspx",
+              "RelativeDocumentMoniker": "Uputstvo.aspx",
+              "ToolTip": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\Uputstvo.aspx",
+              "RelativeToolTip": "Uputstvo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-28T18:37:36.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OAutoru.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\OAutoru.aspx.cs",
+              "RelativeDocumentMoniker": "OAutoru.aspx.cs",
+              "ToolTip": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\OAutoru.aspx.cs",
+              "RelativeToolTip": "OAutoru.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:37:36.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OAutoru.aspx",
+              "DocumentMoniker": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\OAutoru.aspx",
+              "RelativeDocumentMoniker": "OAutoru.aspx",
+              "ToolTip": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\OAutoru.aspx",
+              "RelativeToolTip": "OAutoru.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-28T18:37:36.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebForm1.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:37:36.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Daki\\Downloads\\ZadatakB8\\WebApplication2\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-28T18:37:36.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

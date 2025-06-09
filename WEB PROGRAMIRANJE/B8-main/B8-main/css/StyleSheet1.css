@@ -1,0 +1,31 @@
+.div1{
+    height:50px;
+    background-color:steelblue;
+}
+.div2{
+    height:30px;
+    background-color:midnightblue;
+}
+.button{
+    background-color:royalblue;
+    color:white;
+}
+p{
+    color:white;    
+    padding-top:15px;
+    padding-left:10px;
+    font-size:20px;
+}
+.auto-style1 {
+    width: 100%;
+}
+.auto-style2 {
+    width: 109px;
+}
+.auto-style3 {
+    width: 109px;
+    height: 26px;
+}
+.auto-style4 {
+    height: 26px;
+}

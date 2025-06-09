@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="./css/style.css" type="text/css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zvuci instumenata</title>
+</head>
+<body>
+    <div class="title">
+        <h1>OSNOVNA SKOLA "SONJA MARINKOVIC"</h1>
+    </div>
+
+    <div class="header">
+        <a href="./index.html">
+            <input type="button" value="Pocetna">
+        </a>
+        <a href="./aboutMe.html">
+            <input type="button" value="O autoru">
+        </a>
+        <a href="./uputstvo.html">
+            <input type="button" value="Uputstvo">
+        </a>
+    </div>
+
+    <p id="zvuk">Zvuci instumenata</p>
+   
+    <div class="music">
+        <div class="mText">
+            <p>M</p>
+            <p>u</p>
+            <p>z</p>
+            <p>i</p>
+            <p>c</p>
+            <p>k</p>
+            <p>a</p>
+        </div>
+        <div class="mText1">
+            <p style="margin-top: 11px;">k</p>
+            <p>u</p>
+            <p>l</p>
+            <p>t</p>
+            <p>u</p>
+            <p>r</p>
+            <p>a</p>
+        </div>
+        <div class="tabela">
+            <table>
+                <tr>
+                  <th>Naziv instumenta</th>
+                  <th>Slika instumenta</th>
+                  <th>Zvuk instrumenta</th>
+                </tr>
+                <tr>
+                  <td>Gitara</td>
+                  <td><img src="./image/gitara.jpg" id="s1"></td>
+                  <td class="fsize">
+                    <img src="./image/zvuk.jpg" id="z1">
+                    <br>
+                    <a href="#" onclick="return gitara();">Saznaj vise</a>
+                </td>
+                </tr>
+                <tr>
+                  <td>Violina</td>
+                  <td><img src="./image/violina.jpg" id="s2"></td>
+                  <td class="fsize">
+                    <img src="./image/zvuk.jpg" id="z2">
+                    <br>
+                    <a href="#" onclick="return violina();">Saznaj vise</a>
+                </td>
+                </tr>
+                <tr>
+                    <td>Klavir</td>
+                    <td><img src="./image/klavir.jpg" id="s3"></td>
+                    <td class="fsize">
+                        <img src="./image/zvuk.jpg" id="z3">
+                        <br>
+                        <a href="#" onclick="return klavir();">Saznaj vise</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Bubnjevi</td>
+                    <td><img src="./image/bubnjevi.jpg" id="s4"></td>
+                    <td class="fsize">
+                        <img src="./image/zvuk.jpg" id="z4">
+                        <br>
+                        <a href="#" onclick="return bubnjevi();">Saznaj vise</a>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>Harmonika</td>
+                    <td><img src="./image/harmonika.jpg" id="s5"></td>
+                    <td class="fsize">
+                        <img src="./image/zvuk.jpg" id="z5">
+                        <br>
+                        <a href="#" onclick="return harmonika();">Saznaj vise</a>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>Kontrafagot</td>
+                    <td><img src="./image/kontrafagot.jpg" id="s6"></td>
+                    <td class="fsize">
+                        <img src="./image/zvuk.jpg" id="z6">
+                        <br>
+                        <a href="#" onclick="return kontrafagot();">Saznaj vise</a>
+
+                    </td>
+                </tr>
+              </table>
+        </div>
+    </div>
+
+
+    <div class="bott">
+        <p>Copyright © Osnovna skola "Sonja Marinkovic"</p>
+    </div>
+    
+    <script src="./js/script.js"></script>
+</body>
+</html>

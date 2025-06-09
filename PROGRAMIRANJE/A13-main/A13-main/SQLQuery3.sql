@@ -1,0 +1,22 @@
+﻿CREATE TABLE Zaposleni (
+	ZaposleniID INT NOT NULL,
+	Ime VARCHAR(20) NOT NULL,
+	Prezime VARCHAR(20) NOT NULL,
+	Telefon VARCHAR(20) NOT NULL,
+	Adresa VARCHAR(50) NOT NULL,
+	PRIMARY KEY(ZaposleniID)
+);
+ 
+CREATE TABLE Zaposleni_Film (
+	PozajmicaID INT NOT NULL IDENTITY(0,1),
+	ZaposleniID INT NOT NULL,
+	FilmID INT NOT NULL,
+	PRIMARY KEY(PozajmicaID),
+	FOREIGN KEY(ZaposleniID) REFERENCES Zaposleni(ZaposleniID),
+	FOREIGN KEY(FilmID) REFERENCES Film(FilmID)
+);
+ALTER TABLE Glumac
+ADD Nadimak VARCHAR(30);
+ 
+ALTER TABLE Film
+ADD Slobodan BIT;

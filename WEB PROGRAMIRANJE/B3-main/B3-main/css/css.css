@@ -1,0 +1,111 @@
+body{
+    color: rgb(30, 110, 44);
+    background-color: #fefa99;
+
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+    display: none;
+  }
+  
+#naslov{
+    text-align: center;
+    font-size: 38px;
+}
+#podnaslov{
+    text-align: center;
+    font-size: 25px;
+}
+#uputstvo{
+    text-align: left;
+    font-size: 20px;
+}
+#meni{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: #c2ffaa;
+
+}
+button{
+    width: 150.7px;
+    height: 45px;
+    background-color: #c2ffaa;
+    border: 2px solid #c2ffaa;
+}
+button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+#glavniDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 0;
+    left: 300;
+    font-size: 55px;
+}
+#stranica{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image1 {
+    position: relative;
+    top: 240;
+    left: -80;
+    border: 1px rgb(95, 66, 66) solid;
+}
+.image2 {
+    position: relative;
+    top: -220;
+    left: -250;
+    border: 1px rgb(95, 66, 66) solid;
+}
+.image3 {
+    position: relative;
+    top: -380;
+    left: -640;
+    border: 1px rgb(95, 66, 66) solid;
+}
+.image4 {
+    position: relative;
+    top: -200;
+    left: -840;
+    border: 1px rgb(95, 66, 66) solid;
+}
+.image5 {
+    position: relative;
+    top: 0;
+    left: -900;
+    border: 1px rgb(95, 66, 66) solid;
+}
+.image6 {
+    position: relative;
+    top: 220;
+    left: -920;
+    border: 1px rgb(95, 66, 66) solid;
+}
+.image7 {
+    position: relative;
+    top: 370;
+    left: -900;
+    border: 1px rgb(95, 66, 66) solid;
+}
+.image8 {
+    position: relative;
+    top: 380;
+    left: -730;
+    border: 1px rgb(95, 66, 66) solid;
+}
+.image9 {
+    position: relative;
+    top: 0;
+    left: -950;
+    border: 1px rgb(95, 66, 66) solid;
+}
+#drzava{
+    text-align: center;
+}

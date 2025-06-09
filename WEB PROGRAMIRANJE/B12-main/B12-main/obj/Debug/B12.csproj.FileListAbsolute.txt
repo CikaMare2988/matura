@@ -1,0 +1,177 @@
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\B12.dll.config
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\B12.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\B12.pdb
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\csc.exe
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\csc.exe.config
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\csc.rsp
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\csi.exe
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\csi.exe.config
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\csi.rsp
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.AppContext.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Console.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Net.Http.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\vbc.exe
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\vbc.exe.config
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\vbc.rsp
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\obj\Debug\B12.csproj.AssemblyReference.cache
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\obj\Debug\B12.csproj.CoreCompileInputs.cache
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\obj\Debug\B12.csproj.CopyComplete
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\obj\Debug\B12.dll
+C:\Users\PC4811\Desktop\Relja Sokolov\B12\obj\Debug\B12.pdb
+C:\Users\Relja\Desktop\B12\bin\B12.dll.config
+C:\Users\Relja\Desktop\B12\bin\B12.dll
+C:\Users\Relja\Desktop\B12\bin\B12.pdb
+C:\Users\Relja\Desktop\B12\bin\roslyn\csc.exe
+C:\Users\Relja\Desktop\B12\bin\roslyn\csc.exe.config
+C:\Users\Relja\Desktop\B12\bin\roslyn\csc.rsp
+C:\Users\Relja\Desktop\B12\bin\roslyn\csi.exe
+C:\Users\Relja\Desktop\B12\bin\roslyn\csi.exe.config
+C:\Users\Relja\Desktop\B12\bin\roslyn\csi.rsp
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Relja\Desktop\B12\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.AppContext.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Console.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.IO.Compression.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Net.Http.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.ValueTuple.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Relja\Desktop\B12\bin\roslyn\vbc.exe
+C:\Users\Relja\Desktop\B12\bin\roslyn\vbc.exe.config
+C:\Users\Relja\Desktop\B12\bin\roslyn\vbc.rsp
+C:\Users\Relja\Desktop\B12\bin\roslyn\VBCSCompiler.exe
+C:\Users\Relja\Desktop\B12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Relja\Desktop\B12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Relja\Desktop\B12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Relja\Desktop\B12\obj\Debug\B12.csproj.AssemblyReference.cache
+C:\Users\Relja\Desktop\B12\obj\Debug\B12.csproj.CoreCompileInputs.cache
+C:\Users\Relja\Desktop\B12\obj\Debug\B12.csproj.CopyComplete
+C:\Users\Relja\Desktop\B12\obj\Debug\B12.dll
+C:\Users\Relja\Desktop\B12\obj\Debug\B12.pdb
+C:\Users\Daki\Downloads\B12\bin\B12.dll.config
+C:\Users\Daki\Downloads\B12\bin\B12.dll
+C:\Users\Daki\Downloads\B12\bin\B12.pdb
+C:\Users\Daki\Downloads\B12\bin\roslyn\csc.exe
+C:\Users\Daki\Downloads\B12\bin\roslyn\csc.exe.config
+C:\Users\Daki\Downloads\B12\bin\roslyn\csc.rsp
+C:\Users\Daki\Downloads\B12\bin\roslyn\csi.exe
+C:\Users\Daki\Downloads\B12\bin\roslyn\csi.exe.config
+C:\Users\Daki\Downloads\B12\bin\roslyn\csi.rsp
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daki\Downloads\B12\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.AppContext.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Console.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Net.Http.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daki\Downloads\B12\bin\roslyn\vbc.exe
+C:\Users\Daki\Downloads\B12\bin\roslyn\vbc.exe.config
+C:\Users\Daki\Downloads\B12\bin\roslyn\vbc.rsp
+C:\Users\Daki\Downloads\B12\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daki\Downloads\B12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daki\Downloads\B12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daki\Downloads\B12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daki\Downloads\B12\obj\Debug\B12.csproj.AssemblyReference.cache
+C:\Users\Daki\Downloads\B12\obj\Debug\B12.csproj.CoreCompileInputs.cache
+C:\Users\Daki\Downloads\B12\obj\Debug\B12.csproj.Up2Date
+C:\Users\Daki\Downloads\B12\obj\Debug\B12.dll
+C:\Users\Daki\Downloads\B12\obj\Debug\B12.pdb
