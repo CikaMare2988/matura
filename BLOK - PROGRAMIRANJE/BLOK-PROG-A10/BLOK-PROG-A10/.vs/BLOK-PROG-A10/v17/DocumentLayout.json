@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|c:\\users\\user\\desktop\\blok-prog-a10\\ulov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|solutionrelative:ulov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|c:\\users\\user\\desktop\\blok-prog-a10\\uputstvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|solutionrelative:uputstvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\ulov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|solutionrelative:ulov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8A9508E-DA2D-47AB-9AE4-30EA42F1A163}|BLOK-PROG-A10.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Uputstvo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Uputstvo.cs",
+              "RelativeDocumentMoniker": "Uputstvo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Uputstvo.cs [Design]",
+              "RelativeToolTip": "Uputstvo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:59:34.668Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ulov.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Ulov.cs",
+              "RelativeDocumentMoniker": "Ulov.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Ulov.cs",
+              "RelativeToolTip": "Ulov.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwEUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:12:24.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ulov.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Ulov.cs",
+              "RelativeDocumentMoniker": "Ulov.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Ulov.cs [Design]",
+              "RelativeToolTip": "Ulov.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:08:28.611Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAWwLoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:20:15.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BLOK-PROG-A10\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:08:34.053Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

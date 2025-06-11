@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\bin\Debug\A3.mdf
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\bin\Debug\A3_log.ldf
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\bin\Debug\BLOK-PROG-A3.exe.config
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\bin\Debug\BLOK-PROG-A3.exe
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\bin\Debug\BLOK-PROG-A3.pdb
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\obj\Debug\BLOK-PROG-A3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\obj\Debug\BLOK_PROG_A3.Form1.resources
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\obj\Debug\BLOK_PROG_A3.Properties.Resources.resources
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\obj\Debug\BLOK-PROG-A3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\obj\Debug\BLOK-PROG-A3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\obj\Debug\BLOK-PROG-A3.exe
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\obj\Debug\BLOK-PROG-A3.pdb
+C:\Users\User\Desktop\BLOK-PROG-A3\BLOK-PROG-A3\obj\Debug\BLOK_PROG_A3.Statistika.resources

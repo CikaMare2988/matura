@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\bin\Debug\A13 (1).mdf
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\bin\Debug\A13 (1)_log.ldf
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\bin\Debug\BLOK-PROG-ZADATAK A13.exe.config
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\bin\Debug\BLOK-PROG-ZADATAK A13.exe
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\bin\Debug\BLOK-PROG-ZADATAK A13.pdb
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\obj\Debug\BLOK-PROG-ZADATAK A13.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\obj\Debug\BLOK_PROG_ZADATAK_A13.Form1.resources
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\obj\Debug\BLOK_PROG_ZADATAK_A13.Properties.Resources.resources
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\obj\Debug\BLOK-PROG-ZADATAK A13.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\obj\Debug\BLOK-PROG-ZADATAK A13.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\obj\Debug\BLOK-PROG-ZADATAK A13.exe
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\obj\Debug\BLOK-PROG-ZADATAK A13.pdb
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\obj\Debug\BLOK_PROG_ZADATAK_A13.Broj_Filmova.resources
+C:\Users\User\Desktop\BLOK-PROG-ZADATAK A13\obj\Debug\BLOK_PROG_ZADATAK_A13.Uputstvo.resources

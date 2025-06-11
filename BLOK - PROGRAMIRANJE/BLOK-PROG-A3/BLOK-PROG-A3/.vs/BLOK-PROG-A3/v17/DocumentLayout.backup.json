@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\BLOK-PROG-A3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2A76B5-E15E-46FC-AB90-588530A46F91}|BLOK-PROG-A3\\BLOK-PROG-A3.csproj|c:\\users\\user\\desktop\\blok-prog-a3\\blok-prog-a3\\statistika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F2A76B5-E15E-46FC-AB90-588530A46F91}|BLOK-PROG-A3\\BLOK-PROG-A3.csproj|solutionrelative:blok-prog-a3\\statistika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2A76B5-E15E-46FC-AB90-588530A46F91}|BLOK-PROG-A3\\BLOK-PROG-A3.csproj|c:\\users\\user\\desktop\\blok-prog-a3\\blok-prog-a3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2A76B5-E15E-46FC-AB90-588530A46F91}|BLOK-PROG-A3\\BLOK-PROG-A3.csproj|solutionrelative:blok-prog-a3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2A76B5-E15E-46FC-AB90-588530A46F91}|BLOK-PROG-A3\\BLOK-PROG-A3.csproj|c:\\users\\user\\desktop\\blok-prog-a3\\blok-prog-a3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F2A76B5-E15E-46FC-AB90-588530A46F91}|BLOK-PROG-A3\\BLOK-PROG-A3.csproj|solutionrelative:blok-prog-a3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2A76B5-E15E-46FC-AB90-588530A46F91}|BLOK-PROG-A3\\BLOK-PROG-A3.csproj|c:\\users\\user\\desktop\\blok-prog-a3\\blok-prog-a3\\statistika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2A76B5-E15E-46FC-AB90-588530A46F91}|BLOK-PROG-A3\\BLOK-PROG-A3.csproj|solutionrelative:blok-prog-a3\\statistika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Statistika.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BLOK-PROG-A3\\BLOK-PROG-A3\\Statistika.cs",
+              "RelativeDocumentMoniker": "BLOK-PROG-A3\\Statistika.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BLOK-PROG-A3\\BLOK-PROG-A3\\Statistika.cs",
+              "RelativeToolTip": "BLOK-PROG-A3\\Statistika.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:29:45.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Statistika.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BLOK-PROG-A3\\BLOK-PROG-A3\\Statistika.cs",
+              "RelativeDocumentMoniker": "BLOK-PROG-A3\\Statistika.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BLOK-PROG-A3\\BLOK-PROG-A3\\Statistika.cs [Design]",
+              "RelativeToolTip": "BLOK-PROG-A3\\Statistika.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:29:44.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BLOK-PROG-A3\\BLOK-PROG-A3\\Form1.cs",
+              "RelativeDocumentMoniker": "BLOK-PROG-A3\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BLOK-PROG-A3\\BLOK-PROG-A3\\Form1.cs",
+              "RelativeToolTip": "BLOK-PROG-A3\\Form1.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwJkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:17:19.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BLOK-PROG-A3\\BLOK-PROG-A3\\Form1.cs",
+              "RelativeDocumentMoniker": "BLOK-PROG-A3\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BLOK-PROG-A3\\BLOK-PROG-A3\\Form1.cs [Design]",
+              "RelativeToolTip": "BLOK-PROG-A3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:09:36.092Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

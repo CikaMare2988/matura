@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\bin\Debug\A1.mdf
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\bin\Debug\A1_log.ldf
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\bin\Debug\BLOK-PROG-A1.exe.config
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\bin\Debug\BLOK-PROG-A1.exe
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\bin\Debug\BLOK-PROG-A1.pdb
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\obj\Debug\BLOK-PROG-A1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\obj\Debug\BLOK_PROG_A1.Form1.resources
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\obj\Debug\BLOK_PROG_A1.Properties.Resources.resources
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\obj\Debug\BLOK-PROG-A1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\obj\Debug\BLOK-PROG-A1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\obj\Debug\BLOK-PROG-A1.exe
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\obj\Debug\BLOK-PROG-A1.pdb
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\bin\Debug\Backup\A1.mdf
+C:\Users\User\Desktop\BLOK-PROG-A1\BLOK-PROG-A1\bin\Debug\Backup\A1_log.ldf
